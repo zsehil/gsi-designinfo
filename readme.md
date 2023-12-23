@@ -5,4 +5,5 @@ Bienvenue sur notre guide en ligne dédié à la splendide ville de Paris, la ca
 À travers les places les plus emblématiques de Paris. Chaque lieu raconte une histoire riche et fascinante, ajoutant une touche spéciale à l'histoire de cette ville magnifique.
 
 Le lien vers ma page : [
-](https://github.com/zsehil/gsi-designinfo)https://github.com/zsehil/gsi-designinfo
+][
+](https://zsehil.github.io/gsi-designinfo/)https://zsehil.github.io/gsi-designinfo/
