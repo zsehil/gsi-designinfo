@@ -4,5 +4,4 @@ Bienvenue sur notre guide en ligne dédié à la splendide ville de Paris, la ca
  <div align="center">Explorez les joyaux de la capitale française</div>
 À travers les places les plus emblématiques de Paris. Chaque lieu raconte une histoire riche et fascinante, ajoutant une touche spéciale à l'histoire de cette ville magnifique.
 
-
-
+Le lien vers ma page : 
